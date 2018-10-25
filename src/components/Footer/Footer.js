@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 //import { NavLink } from 'react-router-dom';
 
-const logofooter = require("../images/mallory-furniture-logo.png");
+const logofooter = require("../../images/mallory-furniture-logo.png");
 
 export default class Footer extends Component {
 	render() {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const logo = require('../images/mf-logo-white.svg');
+const logo = require('../../images/mf-logo-white.svg');
 
 export default class Logo extends Component {
 	render() {
